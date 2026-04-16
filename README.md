@@ -92,10 +92,13 @@ Users can assign custom weights (ranging from **0 to 100**) to each variable bas
 ## 👤 Author
 
 **Prithvi Prasad**
-**[prasad.pri@northeastern.edu](mailto:prasad.pri@northeastern.edu)
-Northeastern University — College of Engineering
-IE6600: Computation and Visualization | Fall 2024
-Supervised by: Prof. Sri Radhakrishnan**
+[prasad.pri@northeastern.edu](mailto:prasad.pri@northeastern.edu)  
+
+Northeastern University — College of Engineering  
+
+IE6600: Computation and Visualization | Fall 2024  
+
+Supervised by: Prof. Sri Radhakrishnan
 
 ---
 
