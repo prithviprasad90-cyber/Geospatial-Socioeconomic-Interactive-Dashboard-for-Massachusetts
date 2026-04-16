@@ -1,7 +1,7 @@
 # Geospatial-Socioeconomic-Interactive-Dashboard-for-Massachusetts
 
 
-# Data Metrics: Interactive Socio-Economic Suitability Dashboard for Suffolk County, MA
+## Data Metrics: Interactive Socio-Economic Suitability Dashboard for Suffolk County, MA
 
 ![Tableau](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau)
 ![Data](https://img.shields.io/badge/Data-US%20Census%20%7C%20Zillow-green)
