@@ -15,7 +15,7 @@
 
 ## 📌 Project Overview
 
-**NeighborMetrics** is an interactive data visualization dashboard that analyzes multiple socio-economic variables at the **zip code level** across **Suffolk County, Massachusetts**. The dashboard enables users to explore and compare neighborhood desirability through a customizable composite suitability score — helping individuals, researchers, and policymakers make informed, data-driven decisions about regional livability.
+**Data Metrics** is an interactive data visualization dashboard that analyzes multiple socio-economic variables at the **zip code level** across **Suffolk County, Massachusetts**. The dashboard enables users to explore and compare neighborhood desirability through a customizable composite suitability score — helping individuals, researchers, and policymakers make informed, data-driven decisions about regional livability.
 
 ---
 
@@ -92,10 +92,10 @@ Users can assign custom weights (ranging from **0 to 100**) to each variable bas
 ## 👤 Author
 
 **Prithvi Prasad**
-[prasad.pri@northeastern.edu](mailto:prasad.pri@northeastern.edu)/
-Northeastern University — College of Engineering/
-IE6600: Computation and Visualization | Fall 2024/
-Supervised by: Prof. Sri Radhakrishnan
+**[prasad.pri@northeastern.edu](mailto:prasad.pri@northeastern.edu)
+Northeastern University — College of Engineering
+IE6600: Computation and Visualization | Fall 2024
+Supervised by: Prof. Sri Radhakrishnan**
 
 ---
 
