@@ -11,6 +11,8 @@
 
 🔗 [View on Tableau Public](https://public.tableau.com/app/profile/prithvi.prasad/viz/Project2_17338776393160/Dashboard1)
 
+<img width="2546" height="1660" alt="image" src="https://github.com/user-attachments/assets/41cb92a7-c428-40ce-9bc4-1ab1dd9ecca3" />
+
 ---
 
 ## 📌 Project Overview
